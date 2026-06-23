@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/pasion-de-fuego/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Pasión de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-fuego/) |
+| **Get License** | [Commercial Licensing for Pasión de fuego](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/pasion-de-fuego/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Fuego en tu mirada cuando bajas así
+> Got me addicted a lo que tienes pa' mí
+> Esta noche la disco es tuya, mami let's go
+> Pasión de fuego, you're the star of the show
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
