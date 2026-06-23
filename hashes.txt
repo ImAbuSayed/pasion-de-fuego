@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Pasión de fuego
+
+This log tracks the cryptographic history and versioning for the song **Pasión de fuego** (pasion-de-fuego).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T13:27:06.760799 | `v1` | `f4fe6b10395c63e6eece6bbe48ab99f74b01c8a3ae58441ee35d8e860d5d70ba` | `61e7acd1fce0b308af669b3748acfa1795699b8da78ad757321d8160dd5cd363` | `2026-06-23_pasion-de-fuego-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
